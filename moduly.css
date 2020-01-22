@@ -1,0 +1,95 @@
+/* (C) mgr inż. Bartłomiej Trojnar; (I) styczeń 2019 */
+/* ------------------------- IMPORT CZCIONEK UŻYWANYCH NA STRONIE ------------------------- */
+@import url(http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Almendra:400,400italic,700,700italic&subset=latin,latin-ext);
+
+body {
+    background: #444;
+    font-family: 'Alegreya Sans', 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0;
+    padding: 10px;
+}
+a {
+    color: #ff7f00;
+    text-decoration: none;
+}
+
+/* ------------------------- menu na stronie ------------------------- */
+nav#spis_lekcji {
+    background: inherit;
+    padding: 0 5px;
+}
+nav#spis_lekcji a {
+    border: 3px solid #ff7f00;
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    padding: 2px;
+    font-size: 1.75em;
+    margin: 10px;
+}
+nav#spis_lekcji a:hover {
+    background: #038;
+    color: #fda;
+    text-decoration: none;
+}
+nav#spis_lekcji code {
+    color: #ffaf60;
+    margin: 0;
+    padding: 0;
+    font-size: 0.8em;
+    border: 0;
+}
+nav#spis_lekcji a:hover code {
+    color: #fff;
+}
+nav#spis_lekcji a.unready {
+    background: black;
+    color: navy;
+}
+
+
+/* ------------------------- nagłówek na stronie ------------------------- */
+header {
+	background:		#888;
+	border-radius:	10px;
+	box-shadow:		5px 5px 5px #000;
+	font-size:		1.5em;
+	font-weight:	bold;
+	padding:		10px;
+	text-align:		center;
+	text-shadow:	2px 2px 1px #fff;
+}
+
+/* ------------------------- stopka strony ------------------------- */
+footer {
+    background: #888;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
+footer nav {
+    border-bottom: 1px dashed #444;
+    padding-bottom: 10px;
+}
+footer nav a {
+    border: 0;
+    display: inline;
+    margin: 15px;
+    color: #038;
+}
+footer nav a:hover {
+    background: transparent;
+    color: #fff;
+    text-decoration: none;
+}
+footer p {
+    margin: 10px auto 0;
+    color: #ddd;
+}

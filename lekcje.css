@@ -1,0 +1,181 @@
+/* (C) mgr inż. Bartłomiej Trojnar; (I) styczeń 2019 */
+/* ------------------------- IMPORT CZCIONEK UŻYWANYCH NA STRONIE ------------------------- */
+@import url(http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Almendra:400,400italic,700,700italic&subset=latin,latin-ext);
+
+body {
+	background:		#444;
+	font-family:	'Alegreya Sans', 'Source Sans Pro', sans-serif;
+	font-size:		1em;
+	font-weight:	normal;
+	margin:			0;
+	padding:		10px;
+}
+a {
+	color:			#55a;
+	text-decoration:none;
+}
+a.ukryty {
+    color: black;
+}
+
+/* ------------------------- menu na stronie ------------------------- */
+nav#spis_lekcji {
+    background: #eee;
+    border-radius: 10px;
+    padding: 0 5px;
+    position: absolute;
+    width: 270px;
+    top: 10px;
+}
+nav#spis_lekcji a {
+    border-top: 1px dotted #ff7f00;
+    display: block;
+    padding: 2px;
+    text-align: left;
+}
+nav#spis_lekcji a:hover {
+    background: #fff;
+    color: #f70;
+}
+nav#spis_lekcji code {
+    font-size: 0.8em;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    line-height: 16px;
+}
+
+/* ------------------------- nagłówek na stronie ------------------------- */
+header {
+	background:		#888;
+	border-radius:	10px;
+	box-shadow:		5px 5px 5px #000;
+	font-size:		1.5em;
+	font-weight:	bold;
+	margin-left:	280px;
+	padding:		10px;
+	text-align:		center;
+	text-shadow:	2px 2px 1px #fff;
+}
+
+/* ------------------------- główna treść strony ------------------------- */
+article {
+	background:		#fff;
+	border-radius:	10px;
+	box-shadow:		5px 5px 5px #000;
+	margin-left:	280px;
+	margin-top:		20px;
+	padding:		10px;
+}
+h1 {
+	color:		#ff7f00;
+	font-size:	1.25em;
+	text-shadow:2px 1px 1px #840;
+	margin-top: 10px;
+}
+h2 {
+	color:		#dd5d00;
+	font-size:	1.1em;
+	text-shadow:2px 2px 3px #840;
+	margin-top:	5px;
+    margin-bottom: 2px;
+    border-top: 1px solid #d50;
+}
+p, li {
+	color: #111;
+}
+.r {
+	text-align: right;
+}
+span {
+	color: #f00;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal;
+    padding-right: 2px;
+}
+span.zrodlo {
+	background: #479;
+	border: 1px solid olive;
+	color: #fff;
+	padding: 5px;
+	font-size: 0.7em;
+}
+span.przyklad {
+	display: block;
+	border: 1px solid orange;
+	font-style: italic;
+	font-weight: 700;
+	font-size: 1.2em;
+	color: orange;
+	width: 50%;
+	text-align: center;
+	border-radius: 5px;
+	padding: 10px;
+}
+code {
+	display: inline;
+	border: 1px solid #ccc;
+	text-align: center;
+	border-radius: 5px;
+	padding: 4px;
+    margin: 5px;
+    line-height: 30px;
+}
+code.no-border {
+    border: 0;
+    color: #aaa;
+}
+li code.no-border {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #339;
+}
+table {
+    border: 1px solid blue;
+}
+td {
+    border-top: 1px dotted blue;
+}
+
+aside.terminy {
+    background: #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    right: 25px;
+    bottom: 0px;
+    font-size: 0.7em;
+}
+
+/* ------------------------- stopka strony ------------------------- */
+footer {
+    background: #888;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000;
+    margin-left: 280px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
+footer nav {
+	border-bottom: 1px dashed #444;
+	padding-bottom: 10px;
+}
+footer nav a {
+	border:		0;
+	display:	inline;
+	margin:		15px;
+}
+footer nav a:hover {
+	background:	transparent;
+	color:		#fff;
+}
+footer p {
+	background:	#888;
+	margin:		10px auto 0;
+	width:		240px;
+}

@@ -1,0 +1,26 @@
+/* (C) II styczeń 2020 -- mgr inż. Bartłomiej Trojnar */
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic&subset=latin,latin-ext);
+
+/* -------------------- style dla spisu zadań -------------------- */
+nav#spis_tresci {
+    margin: 20px 20px 20px 280px;
+    border-radius: 10px;
+    background: #555;
+    text-align: center;
+}
+nav#spis_tresci a {
+    display: block;
+    margin: 5px;
+    border: 2px solid #ff7f00;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ff7f00;
+}
+nav#spis_tresci a:hover {
+    background: #777;
+    color: purple;
+    text-decoration: none;
+}

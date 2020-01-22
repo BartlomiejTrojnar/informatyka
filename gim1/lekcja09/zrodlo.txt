@@ -1,0 +1,105 @@
+Pamiêci holograficzne
+
+
+
+
+Zasady holografii znane s¹ od dziesiêcioleci, a ju¿ od dawna trwaj¹ prace nad holograficznymi noœnikami pamiêci. Obecnie hologramy znajduj¹ pojedyncze zastosowania jako noœniki pamiêci, np. analogowe hologramy do identyfikacji banknotów, kart kredytowych i opakowañ produktów. Nie uda³o siê dotychczas zastosowaæ holografii w masowo wytwarzanych urz¹dzeniach pamiêci.
+
+Gdy ostatnio spad³o tempo ulepszania technologii twardych dysków, zaczêto znów intensywnie szukaæ alternatywy na przysz³oœæ. Pamiêci holograficzne teoretycznie mog¹ wykorzystaæ ca³¹ objêtoœæ noœnika w trzech wymiarach. Tak du¿a gêstoœæ zapisu stanie siê potrzebna najpóŸniej wraz z wprowadzeniem telewizji HDTV. Obrazy i filmy telewizji HDTV maj¹ dziesiêciokrotnie wiêksz¹ objêtoœæ ni¿ media tradycyjne. Obecnie mianem pamiêci holograficznych okreœla siê równie¿ p³askie, u³o¿one warstwami noœniki, najczêœciej w po³¹czeniu z niebieskim laserem. Oparte na nim techniki pamiêci oferuj¹ znacznie wiêksz¹ pojemnoœæ ni¿ dotychczasowe i chyba bêd¹ mog³y rozwi¹zaæ problemy, przynajmniej w perspektywie œredniookresowej.
+
+ 
+Niebieski laser
+ 
+Rys. 1. Podczas zapisu dane s¹ przez modulator œwiat³a (SLM) przetwarzane stronicowo na wzór.
+
+Zastosowanie niebieskiego lasera w DVD umo¿liwia dziêki mniejszej d³ugoœci fali œwietlnej zapis znacznie mniejszych wg³êbieñ (pits), a co za tym idzie, znaczne zwiêkszenie gêstoœci zapisu. Niebieski laser pracuje z fal¹ o d³ugoœci 405 nm, podczas gdy czerwony z fal¹ o d³ugoœci 635 do 650 nm. Zaletê wy¿szej rozdzielczoœci przy œwietle o mniejszej d³ugoœci fali mo¿na wykorzystaæ równie¿ w pamiêciach holograficznych. Niestety, niebieskie œwiat³o lasera trudno uzyskaæ. Stosowane materia³y nie s¹ stabilne ani temperaturowo, ani odporne na up³yw czasu. Badania w tym zakresie ca³y czas trwaj¹. Szczerze mówi¹c, trwa w³aœciwie wyœcig - kto pierwszy zbuduje dzia³aj¹cy, stabilny i nadaj¹cy siê do masowej produkcji niebieski laser na bazie azotku galu, ma szanse na fortunê. Wed³ug prognoz firmy badawczej Strategies Unlimited, sprzeda¿ aparatury wykorzystuj¹cej technologiê niebieskiego lasera osi¹gnie w roku 2008 wartoœæ 100 mld dolarów. Rz¹dowe szacunki mówi¹, ¿e polskie firmy mog¹ z tego uszczkn¹æ zaledwie jakieœ 2 mld dolarów. Bo przecie¿ w tym wyœcigu nie brak i polskich akcentów. Zespó³ kierowany przez profesora Sylwestra Porowskiego z Centrum Badañ Wysokociœnieniowych PAN uzyska³ na pewnym etapie doskona³e wyniki, niestety, zabrak³o 30-40 mln z³otych. Taka kwota by³a niezbêdna, ¿eby powsta³ produkt komercyjny. Komitet Badañ Naukowych i prywatni inwestorzy zdo³ali zgromadziæ ³¹cznie oko³o 24 mln z³otych. Ostatecznie prawo do wykorzystania polskiego niebieskiego lasera zdoby³ w ramach projektu offsetowego koncern Lockheed Martin za œmieszn¹ kwotê, 3 mln dolarów.
+Japoñska firma Nichia prowadzi od lat pionierskie badania nad niebieskim laserem, uzyskuj¹c przy tym niejako po drodze liczne patenty. To z kolei prowadzi do rozlicznych sporów o prawa do patentów z firmami i konsorcjami, które chcia³yby wprowadziæ niebieski laser na rynek. Po szeœciu latach sporów uda³o siê doprowadziæ do ugody miêdzy firm¹ Nichia a firm¹ Toyoda -te¿ z Japonii. Na razie napêdy i noœniki korzystaj¹ce z niebieskiego lasera sprzedaje... Sony.
+
+B³êkitne wariacje
+ Rys. 2. W trakcie odczytu za rozpoznanie wzoru odpowiada zwykle uk³ad CCD
+W segmencie napêdów DVD z niebieskim laserem zapewne znów pojawi¹ siê ró¿ne formaty i walka o prymat na rynku. Firma Plasmon ( http://www.plasmon.com ) chce umieœciæ na p³ycie o wymiarach DVD 30 GB danych i uzyskaæ transfer 8 MB/s, korzystaj¹c z technologii Ultra Density Optical (UDO). Przysz³e generacje tej technologii maj¹ zapewniaæ pojemnoœci 60 i 120 GB. Plasmon pracuje nad noœnikami i napêdami we w³asnym zakresie; firma przeznaczy³a na badania 25 mln dolarów. W pewnym okresie w pracach bra³y udzia³ firmy Sony i HP. Sony wspó³pracuje równie¿ z Hitachi, Philipsem i innymi firmami nad technologi¹ Blue ray Disc (BD)o pojemnoœci noœnika 27 GB. Noœniki BD nie s¹ kompatybilne z dotych czasowymi mediami DVD. Podsta wowa licencja na BD ma kosztowaæ 20 tysiêcy dolarów, a licencja na ochronê treœci - 120 tysiêcy dolarów rocznie i 10 centów od napêdu.
+Producenci mediów mieliby p³aciæ 8 tysiêcy dolarów rocznie i 2 centy od p³yty. Sony poinformowa³ w grudniu 2003 roku o dostêpnoœci napêdów DVD z niebieskim laserem i odpowiednich p³yt o pojemnoœci 23,3 GB. Transfer wynosi 9 MB/s.
+Napêd ma kosztowaæ oko³o 3 tysiêcy dolarów, a p³yta - 45 dolarów. Toshiba i NEC propaguj¹ w³asny for mat - Advanced Optical Disc (AOD). Pojemnoœæ p³yty wynosi od 15 do 20 GB. Sanyo równie¿ nie pozostaje w tyle - proponuje p³yty o pojemnoœci od 25 do 30 GB. Firmy Hitachi i Maxwell id¹ inn¹ drog¹. Proponuj¹ p³yty sk³adaj¹ce siê maksymalnie z 200 warstw, mog¹ce pomieœciæ do 1 TB danych. Poszczególne warstwy s¹ przezroczyste. Warstwa aktywna przebarwia siê na niebiesko, gdy zo stanie do niej przy³o¿one napiêcie. Noœniki wielokrotnego zapisu i odpowiednie napêdy powinny siê pojawiæ siê na rynku w roku 2007.
+ 
+
+
+Historia holograficznych technik pamiêci masowych
+Prace nad holograficznymi technikami pamiêci masowych trwaj¹ od oko³o czterdziestu lat, szczególnie w firmie IBM (centrum badawcze Almaden). W latach dziewiêædziesi¹tych rz¹d amerykañski przekaza³ za poœrednictwem DARPA (Defense Advanced Research Projects Agency) miliony dolarów na badania. Ta sama agencja jest "odpowiedzialna" za powstanie pierwowzoru Internetu.
+  
+Rys 3. Gdy wi¹zka sygna³owa trafi na zmodulowany obraz, powstanie wi¹zka referencyjna.
+Przed trzema laty czasopismo "Scientific American" przepowiada³o holograficznym systemom pamiêci masowych wielk¹ przysz³oœæ. Wydaje siê, ¿e ten moment w³aœnie nadchodzi. Pocz¹tkowo jednak na pewno nie bêdzie to produkt masowy. Szczególnie aktywne s¹ dwie amerykañskie firmy: Aprilis (wydzielona z firmy Polaroid) oraz InPhase (za³o¿ona przez firmê Lucent przy wsparciu firmy Imation). Noœniki tych firm testowane s¹ obecnie przez wszystkich licz¹cych siê producentów systemów pamiêci masowych.
+Holograficzne techniki pamiêci masowych
+Wzór interferencyjny dulacja œwiat³a (SLM) Hologram powstaje w wyniku interferencji (na³o¿enia siê) dwóch wi¹zek œwiat³a. Obie powstaj¹ najczêœciej w wyniku optycznego podzia³u jednej wi¹zki z tego samego lasera.
+ 
+Rys. 4. Zasada dzia³a w obie strony i pozwala odtworzyæ wi¹zkê sygna³ow¹.
+Jedna wi¹zka, tak zwana sygna³owa, zawiera odwzorowanie obiektu powsta³e w wyniku modulacji, natomiast druga, tak zwana referencyjna, sk³ada siê ze œwiat³a spójnego. Modulacja wi¹zki sygna³owej za pomoc¹ obrazu lub wzorca bitowego nastêpuje w przestrzennym modulatorze œwiat³a (SLM - Spatial Light Modulator). Jest to na ogó³ struktura ciek³okrystaliczna, podobna do ekranu TFT. Od pewnego czasu stosuje siê równie¿ znane z projektorów mikrolustra. Powstaj¹cy trójwymiarowy wzór interferencyjny zapisywany jest na œwiat³oczu³ym noœniku. W trakcie zapisu zmienia siê jeden z parametrów noœnika: przepuszczalnoœæ optyczna, wspó³czynnik za³amania œwiat³a lub gruboœæ warstwy materia³u. Noœnikiem jest najczêœciej cia³o krystaliczne lub b³ona polimerowa. Odczyt obrazu polega na oœwietleniu noœnika spójnym promieniem œwiat³a, identycznym z wi¹zk¹ referencyjn¹. W ten sposób pierwotny obiekt zostaje ponownie odwzorowany. Za przetwarzanie obrazu odpowiada zwykle matryca detekcyjna w postaci uk³adu CCD.
+
+Holograficzny zapis danych jest utrudniony przez szkodliwe interferencje, wystêpuj¹ce równie¿ w teleskopach astronomicznych w przestrzeni kosmicznej. Opracowane na ich potrzeby procedury korekcji b³êdów znalaz³y zastosowanie w niemal niezmienionej formie równie¿ w holograficznym zapisie danych.
+
+
+
+ 
+Wariacje holografii
+
+Wszystkie procesy holograficznego zapisu danych s¹ odwracalne. Gdy wi¹zka referencyjna do odczytu danych trafi na hologram, powstanie obraz. Oœwietlenie hologramu œwiat³em modulowanym daje w efekcie wi¹zkê referencyjn¹.
+
+W przypadku oœwietlenia obrazu od ty³u wi¹zk¹ referencyjn¹ powstaje przed modulatorem pierwotny obraz (projekcja tylna). Odwzorowanie holograficzne wymaga stosowania drogich, bardzo precyzyjnych soczewek i systemów optycznych. Do odczytu stosuje siê projekcjê tyln¹, a ta sama optyka s³u¿y zarówno do odczytu, jak i zapisu. Hologram informacji przewidzianej do zapisania mo¿na wytworzyæ za pomoc¹ luster o zmiennych k¹tach, fal ró¿nej d³ugoœci lub za pomoc¹ rozmaitych przesuniêæ fazowych. Mo¿na w ten sposób zapisaæ na noœniku jednoczeœnie ca³e zestawy danych.
+Efekt jednoczesnego zapamiêtywania wielu obrazów mo¿na zaobserwowaæ na przyk³adzie hologramów na kartach kredytowych - gdy patrzysz na nie pod ró¿nymi k¹tami, mo¿esz zobaczyæ ró¿ne obrazy. Szczytowe osi¹gniêcie w tym zakresie do tej pory to zapis 10 tysiêcy obrazów w strukturze o gruboœci 1 centymetra.
+
+Media holograficzne
+
+Opieraj¹c siê na obecnym stanie techniki holograficzne noœniki pamiêci o wielkoœci p³yty CD mog³yby pomieœciæ do oko³o 200 GB przy transferze 20 MB/s. Inaczej ni¿ w przypadku twardego dysku czy taœmy, zapisywany jest ca³y zestaw danych (strona), a nie szeregowy strumieñ bitów. Obecnie wielkoœæ takiego zestawu wynosi oko³o 1 MB, a wiêc w jednym kroku zapisuje siê lub odczytuje 1 MB danych.
+W³aœnie ta cecha umo¿liwia uzyska nie du¿ej przep³ywnoœci danych, niezbêdnej w operowaniu wielkimi zbiorami danych.
+Jedn¹ z wiêkszych przeszkód, hamuj¹cych rozpowszechnienie siê holograficznych pamiêci masowych, jest brak odpowiedniego noœnika. Spore nadzieje rokuje szk³o z niewielkimi otworkami wype³nionymi akrylem. Szk³o jest materia³em bardzo stabilnym. Wiêkszoœæ stosowanych dotychczas polimerów kurczy siê podczas obróbki i zniekszta³ca hologram. Szk³o wype³nione akrylem kurczy siê o mniej ni¿ jeden procent, a wiêc jest znacznie bardziej stabilne od polimerów. Ponadto szk³o mo¿e mieæ wiêksz¹ gruboœæ, dlatego automatycznie zwiêksza siê pojemnoœæ noœnika.
+Najczêœciej do tej pory stosowany materia³ fotorefrakcyjny to nioban litu (LiNbO3) z domieszk¹ ¿elaza. Jest to jednak materia³ drogi i bardzo ma³o odporny; dane s¹ tracone przy wielokrotnym odczycie, a zakres dynamiki jest niewielki. Czynione s¹ próby powstrzymania danych przed zanikaniem podczas odczytu. Stosuje siê w tym celu œwiat³o lasera o dwóch barwach oraz stechiometryczny, a tak¿e wzbogacony o ró¿ne domieszki nioban litu (SLM). Materia³ jest aktywowany jedn¹ barw¹ œwiat³a, a druga s³u¿y do odczytu i zapisu. Materia³y polimerowe do jednokrotnego zapisu zmieniaj¹ swój wspó³czynnik za³amania œwiat³a w wyniku nieodwracalnej polimeryzacji. Sk³ad chemiczny i w³aœciwoœci optyczne materia³u zmieniaj¹ siê w sposób sta³y. Przewiduje siê, ¿e ich trwa³oœæ powinna siêgaæ 50 lat.
+Zastosowania
+W trakcie holograficznego zapisu danych zapisywane s¹ stronicowo ca³e bloki danych. Ka¿d¹ stronê mo¿na sobie wyobraziæ jako kwadratow¹ p³ytkê, w której wypalono wzór bitowy (wg³êbienie-brak wg³êbienia). Przy ka¿dej zmianie k¹ta wi¹zki referencyjnej powstaje kolejna wirtualna p³ytka, zale¿nie od zmiany k¹ta przed lub za poprzedni¹. Ka¿da p³ytka odczytywana jest za pomoc¹ spójnej wi¹zki referencyjnej, padaj¹cej pod odpowiednim k¹tem.
+Je¿eli podczas odczytu zostanie zastosowana maska wyszukiwania, mo¿na od razu odczytywaæ okreœlone treœci, bez póŸniejszego porównywania.
+Poszukiwane treœci, charakteryzuj¹ce siê wysokim wspó³czynnikiem korelacji, daj¹ bardziej intensywne œwiat³o podczas odczytu. To sposób na szybkie i ³atwe przeszukiwanie baz danych.
+Obecnie noœniki holograficzne to zwykle media jednokrotnego zapisu. Ich obszary zastosowañ s¹ podobne do p³yt CD i DVD. Dziêki du¿ej pojemnoœci mo¿na na nich zapisaæ na przyk³ad ca³y film fabularny w jakoœci HDTV. Szczególn¹ zalet¹ jest praca równoleg³a. Zwiêkszenie szybkoœci transmisji nie wymaga zwiêkszania szybkoœci obrotowej. Wzrost pojemnoœci nie wymaga tworzenia coraz mniejszych punktów zapisu. Ed Grochowski i Hans Coufal z centrum badawczego Almaden (IBM) przewiduj¹ nastêpuj¹c¹ klasyfikacjê pamiêci holograficznych.
+ 
+
+
+Produkty i projekty
+Jest wiele projektów zwi¹zanych z pamiêciami holograficznymi. Co prawda, nie wszystkie firmy lub grupy robocze, które rozpoczê³y prace nad jakimiœ rozwi¹zaniami, przetrwa³y do tej pory. Niektóre z kolei do tej pory otrzymuj¹ spore wsparcie, jak choæby Aprilis, który dosta³ od jednego tylko inwestora 17 mln na badania i rozwój. InPhase otrzyma³ ostatnio zlecenie badawcze o wartoœci 600 tysiêcy dolarów od National Technology Alliance, agendy Ministerstwa Obrony Stanów Zjednoczonych. Wczeœniej firma pozyska³a œrodki inwestycyjne w wysokoœci oko³o 8,3 miliona dolarów. Japoñska firma Optware otrzyma³a 4,9 miliona dolarów od grupy inwestorów, w tym Intela.
+
+ 
+
+Rys. 5. Przegl¹d pamiêci holograficznych
+
+
+ 
+Aprilis
+
+Opracowany przez Aprilis noœnik jednorazowego zapisu HMD 120 to kr¹¿ek o œrednicy 120 mm, umieszczony miêdzy dwiema p³ytkami szklanymi. Pojemnoœæ wynosi 200 GB. Z kolei kwadratowa karta pamiêci HMC050 ma wymiary 50x50 mm. Gruboœæ w³aœciwych noœników wynosi 200 lub 300 µm.
+Ca³kowita gruboœæ wraz z os³on¹ wynosi 0,6, 1,2 lub 1,55 mm. Aprilis podaje, ¿e transfer danych siêga 100 MB/s. Zastosowany noœnik CROP (Cationic Ring Opening Polymerization) jest bardzo stabilny geometrycznie, ponadto charakteryzuje siê du¿¹ czu³oœci¹ i wysokim wspó³czynnikiem za³amania œwiat³a przy niewielkim rozproszeniu wi¹zki. Po zapisie materia³ jest odporny na œwiat³o i utlenianie. Aprilis zakupi³ w 2002 roku 21 patentów na techniki holograficzne od firmy Manhattan Scientifics. Ponad 15 firm, w tym tak znane, jak Sony czy Samsung, testuje obecnie p³yty i karty oferowane przez Aprilis.
+
+IBM
+
+IBM zajmuje siê pamiêciami holograficznymi z ró¿n¹ intensywnoœci¹ ju¿ od ponad 30 lat. Testuje przy tym wszelkie mo¿liwe materia³y, które mog³yby wchodziæ w grê jako noœniki holograficzne. Na razie in¿ynierom IBM uda³o siê uzyskaæ gêstoœæ zapisu 400 b/µm2. Dla porównania, gêstoœæ zapisu p³yt CD wynosi 0,7 b/µm2, zaœ p³yt DVD -4,5 b/µm2. Problem utraty danych przy wielokrotnym odczycie IBM chce rozwi¹zaæ za pomoc¹ ró¿nych d³ugoœci fal œwiat³a u¿ywanego do zapisu i odczytu.
+
+InPhase
+
+Noœnik opracowany przez InPhase -Tapestry - ma szczególnie dobre w³aœciwoœci tworzenia hologramów. Tworz¹ go dwa sk³adniki chemiczne, daj¹ce siê polimeryzowaæ niezale¿nie od siebie. P³ytê o wymiarach CD, pojemnoœci 100 GB i transferze 20 MB/s zaprezentowano publicznie w kwietniu 2003 roku. Do chwili zapisu noœnik musi pozostawaæ w œwiat³oszczelnej obudowie. Komercyjne produkty maj¹ byæ dostêpne w niedalekiej przysz³oœci. Niezale¿nie od tego InPhase informuje, ¿e prowadzi testy noœnika wielokrotnego zapisu (do tysi¹ca razy). Brak informacji o zastosowanych materia³ach. Stosowane dotychczas materia³y na bazie azobenzenu mo¿na zapisywaæ od 60 do 80 razy. InPhase przej¹³ od Bell Labs 42 patenty na techniki holograficzne, sam zg³osi³ te¿ oko³o 40 kolejnych. Niektóre zosta³y ju¿ przyznane.
+
+Optilink
+
+Wed³ug w³asnych informacji, szwedzka firma Optilink pierwsza na œwiecie opracowa³a przenoœne urz¹dzenie do testowania i oceny pamiêci holograficznych, pod³¹czane do peceta. Sam noœnik ma format karty kredytowej. Optilink wykorzystuje polaryzowan¹ holografiê fourierowsk¹; p³ytka ciek³ego kryszta³u o gruboœci 2 µm ma pojemnoœæ 1 GB.
+Laser pracuje z fal¹ o d³ugoœci 532 nm i impulsami o d³ugoœci rzêdu pikosekund. Modulacjê wi¹zki zapewnia SLM na bazie ciek³ego kryszta³u. Wi¹zka danych podlega przekszta³ceniom fourierowskim, a nastêpnie, wraz z prostopad³¹ do niej wi¹zk¹ referencyjn¹, tworzy obraz interferencyjny. Optilink preferuje peptydy i ciek³e kryszta³y. Peptydy to polimery, które pod wp³ywem œwiat³a mog¹ tworzyæ zwi¹zki z ró¿nymi chromoforami. Peptydy maj¹ wiele bardzo dobrych w³aœciwoœci optycznych, s¹ bardzo stabilne temperaturowo, a tak¿e niedrogie w produkcji. Optilink stosuje œwiat³o spolaryzowane liniowo do zapisu, natomiast do jego usuwania - œwiat³o spolaryzowane ko³owo. Do odczytu i zapisu mo¿na u¿ywaæ œwiat³a o takiej samej d³ugoœci fali, poniewa¿ energia oœwietlenia potrzebna do przeorientowania materia³u wymaga ró¿nej intensywnoœci. Optilink wspó³pracuje z Riso National Laboratory w Danii oraz z Uniwersytetem Budapeszteñskim.
+
+Optostor
+
+Niemiecka firma Optostor z Ratingen we wspó³pracy z Instytutem Krystalografii Uniwersytetu w Kolonii postawi³a na kryszta³y litu. Obecnie najwiêksze z nich maj¹ wymiary mniej wiêcej 50x50x3 mm, s¹ przy tym wytrzyma³e mechanicznie i odporne chemicznie. Zastosowany nioban litu musi zostaæ utrwalony w krysztale po zapisie. Czêœæ z oko³o 20 zg³oszonych patentów dotyczy w³aœnie tego procesu, którego szczegó³y nie zosta³y opublikowane. Optostor przewidywa³, ¿e trwa³oœæ noœnika siêgnie 500 lat. Niestety, sama firma okaza³a siê znacznie mniej trwa³a i w grudniu 2002 roku og³osi³a upad³oœæ. Zabrak³o milionów dolarów, potrzebnych na opracowanie handlowego produktu. Takie sumy ³atwiej znaleŸæ w Stanach Zjednoczonych lub w Japonii. Wyniki badañ wykorzystuj¹ inne firmy.
+
+Optware
+
+Japoñska firma Optware wspó³pracuje z amerykañskimi uczelniami-Uniwersytetem Stanforda i MIT. Œrodki inwestycyjne s¹ równie¿ amerykañskie. Celem jest wyprodukowanie noœnika o pojemnoœci 1 TB i transferze 1 GB/s.
+Oprócz tego Optware produkuje tzw. Holographic Media Analyzer (S-VRD) - urz¹dzenie do analizy mediów holo graficznych.
+
+Perspektywy
+
+Holograficzne przechowywanie danych to teoretycznie prosta technika, znana w dodatku od wielu lat. Okazuje siê jednak, ¿e opracowanie powszechnie dostêpnych produktów jest nadzwyczaj trudne. Szczególne wyzwanie stanowi opracowanie samego noœnika. Przed zapisem (naœwietleniem) noœnik musi byæ przechowywany w œwiat³oszczelnym opakowaniu -jak b³ona fotograficzna. Przed ponownym zapisem trzeba przywróciæ mu œwiat³oczu³oœæ. Noœników nie mo¿na t³oczyæ jak p³yt CD czy DVD. Utrudnia to ich masowe powielanie. P³yty DVD z materia³em holograficznym maj¹ mieœciæ oko³o 1 TB danych, ale pojawi¹ siê na rynku dopiero za trzy do piêciu lat. Noœniki oparte na niebieskim laserze, ale nie w technologii holograficznej, na przyk³ad p³yty DVD o pojemnoœci 30 GB, powinny za to pojawiæ siê ju¿ niebawem. Wed³ug opinii producentów i ekspertów, noœniki holograficzne nie zast¹pi¹ w przysz³oœci tradycyjnych - taœm, twardych dysków i magnetooptycznych, DVD. Nowa technika mo¿e wyprzeæ tradycyjn¹ jedynie w bardzo specjalistycznych zastosowaniach. 
+
+
+
+Autor - Herman Strass
