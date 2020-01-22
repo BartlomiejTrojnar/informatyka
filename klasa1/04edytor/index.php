@@ -1,4 +1,4 @@
-<!-- (C) II październik 2019 -- mgr inż. Bartłomiej Trojnar -->
+<!-- (C) III styczeń 2020 -- mgr inż. Bartłomiej Trojnar -->
 <!doctype html>
 <html>
 <head>
@@ -29,6 +29,6 @@
       <a href="../05programowanie"><i class='fas fa-arrow-alt-circle-right'></i> 5/6 programowanie</a>
       <a href="../06strony_www"><i class='fas fa-arrow-alt-circle-right'></i> 6/6 strony www</a>
     </nav>
-    <p>aktualizacja: 12 października 2019 roku</p>
+    <p>aktualizacja: 22 stycznia 2020 roku</p>
   </footer>
 </body></html>
