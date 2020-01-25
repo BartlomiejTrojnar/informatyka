@@ -1,4 +1,4 @@
-<!-- (C) II styczeń 2020 -- mgr inż. Bartłomiej Trojnar -->
+<!-- (C) III styczeń 2020 -- mgr inż. Bartłomiej Trojnar -->
 <!doctype html>
 <html>
 <head>
@@ -35,7 +35,7 @@
     <p>Po wykonaniu ćwiczenia w czasie lekcji zapisz pliki pod nazwą <code>animacja.xcf</code> oraz <code>animacja.gif</code> w folderze <code><span>grafika</span></code>.</p>
     <p>Wykonaj ćwiczenie 5 opisane w podręczniku w rozdziale 7 (strona 71).</p>
     <p>Po wykonaniu ćwiczenia w czasie lekcji zapisz pliki pod nazwą <code>oryginal.png</code> oraz <code>wyciecie.png</code> w folderze <code><span>grafika</span></code>.</p>
-    <p>Wyślij pliki do oceny: <a href="../zadania/">zadanie 1</a></p>
+    <p>Wyślij pliki do oceny: <a href="../zadania/zadanie4.php">zadanie 4</a></p>
 
   </article>
 
@@ -51,6 +51,6 @@
       <a href="../lekcja15">lekcja 15 <i class='fas fa-arrow-circle-right'></i></a>
   	  <a href="../zadania">zadania <i class='fas fa-arrow-circle-right'></i></a>
     </nav>
-    <p>aktualizacja: 21 stycznia 2020 roku</p>
+    <p>aktualizacja: 25 stycznia 2020 roku</p>
   </footer>
 </body></html>

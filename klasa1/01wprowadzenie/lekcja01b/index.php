@@ -1,4 +1,4 @@
-<!-- (C) III grudzień 2019 -- mgr inż. Bartłomiej Trojnar -->
+<!-- (C) III styczeń 2020 -- mgr inż. Bartłomiej Trojnar -->
 <!doctype html>
 <html>
 <head>
@@ -165,7 +165,7 @@
       <a href="../lekcja03">lekcja 3 <i class='fas fa-arrow-circle-right'></i></a>
       <a href="../lekcja04">lekcja 4 <i class='fas fa-arrow-circle-right'></i></a>
       <a href="../lekcja05">lekcja 5 <i class='fas fa-arrow-circle-right'></i></a>
-  	  <a href="../zadanie1">zadanie 1<i class='fas fa-arrow-circle-right'></i></a>
+  	  <a href="../zadanie1.php">zadanie 1<i class='fas fa-arrow-circle-right'></i></a>
     </nav>
     <p>Łańcut, 30 grudnia 2019 roku</p>
   </footer>

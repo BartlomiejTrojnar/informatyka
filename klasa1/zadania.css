@@ -1,0 +1,76 @@
+/* (C) III styczeń 2020 -- mgr inż. Bartłomiej Trojnar */
+/*
+*/
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Almendra:400,400italic,700,700italic&subset=latin,latin-ext);
+
+body {
+    padding: 20px;
+    background: #444;
+    font-family: 'Almendra', 'Arial', serif;
+    font-size: 12pt;
+    line-height: 1;
+    color: whitesmoke;
+}
+a { display: block; }
+a:hover { text-decoration: none; }
+
+/* -------------------- style dla nagłówka strony -------------------- */
+header {
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #f0f;
+    padding: 10px;
+    background: #ccc;
+    text-align: center;
+    font: bold 20pt 'Almendra', sans-serif;
+    color: #444;
+    text-shadow: 2px 2px 1px #fff;
+}
+
+/* -------------------- style dla głównej części strony -------------------- */
+table {
+    margin: auto;
+}
+table th, table td {
+    border: 1px solid #888;
+    padding: 10px;
+    font-size: 1.5em;
+}
+table th {
+    background-color: #ff7f00;
+    text-align: center;
+}
+td:hover { background: #666; }
+a#powrot {
+    margin: 25px auto;
+    width: 500px;
+    border: 3px solid #ff7f00;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+}
+a#powrot:hover {
+    background: #666;
+}
+
+/* -------------------- style dla stopki strony -------------------- */
+footer {
+    margin: 0 20px;
+    position: sticky;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #000;
+    background: #bbb;
+    padding: 5px;
+    text-align:	center;
+    font-family: 'Source Sans Pro', 'Arial', serif;
+    line-height: 2;
+    vertical-align: middle;
+}
+footer p {
+    color: #888;
+    margin: auto;
+}

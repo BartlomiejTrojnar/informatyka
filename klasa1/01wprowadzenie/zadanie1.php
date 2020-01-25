@@ -1,4 +1,4 @@
-<!-- (C) III październik 2019 -- mgr inż. Bartłomiej Trojnar -->
+<!-- (C) III styczeń 2020 -- mgr inż. Bartłomiej Trojnar -->
 <!doctype html>
 <html>
 <head>
@@ -8,7 +8,7 @@
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../../../lekcje.css" type="text/css" media="all" />
+  <link rel="stylesheet" href="../../lekcje.css" type="text/css" media="all" />
   <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 
   <title>Zadanie 1: Wprowadzenie i nauka online</title>
@@ -72,18 +72,18 @@
   </table>
 </article>
 
-  <?php include ('../menu.htm'); ?>
+  <?php include ('menu.htm'); ?>
 
   <footer>
   <nav>
-      <a href="../index.php"><i class='fas fa-arrow-circle-up'></i> wprowadzenie</a>
-      <a href="../lekcja01a">lekcja 1a <i class='fas fa-arrow-circle-right'></i></a>
-      <a href="../lekcja01b">lekcja 1b <i class='fas fa-arrow-circle-right'></i></a>
-      <a href="../lekcja02">lekcja 2 <i class='fas fa-arrow-circle-right'></i></a>
-      <a href="../lekcja03">lekcja 3 <i class='fas fa-arrow-circle-right'></i></a>
-      <a href="../lekcja04">lekcja 4 <i class='fas fa-arrow-circle-right'></i></a>
-      <a href="../lekcja05">lekcja 5 <i class='fas fa-arrow-circle-right'></i></a>
-  	  <a href="../zadanie1">zadanie 1<i class='fas fa-arrow-circle-right'></i></a>
+      <a href="index.php"><i class='fas fa-arrow-circle-up'></i> wprowadzenie</a>
+      <a href="lekcja01a">lekcja 1a <i class='fas fa-arrow-circle-right'></i></a>
+      <a href="lekcja01b">lekcja 1b <i class='fas fa-arrow-circle-right'></i></a>
+      <a href="lekcja02">lekcja 2 <i class='fas fa-arrow-circle-right'></i></a>
+      <a href="lekcja03">lekcja 3 <i class='fas fa-arrow-circle-right'></i></a>
+      <a href="lekcja04">lekcja 4 <i class='fas fa-arrow-circle-right'></i></a>
+      <a href="lekcja05">lekcja 5 <i class='fas fa-arrow-circle-right'></i></a>
+  	  <a href="zadanie1.php">zadanie 1<i class='fas fa-arrow-circle-right'></i></a>
     </nav>
     <p>Łańcut, 30 grudnia 2019 roku</p>
   </footer>
